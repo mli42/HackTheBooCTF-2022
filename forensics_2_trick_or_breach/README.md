@@ -7,6 +7,8 @@ Each packet has a `DNS.Queries.Name` in this format:
 <hex-code>.pumpkincorp.com
 ```
 
+After searching for `subdomain in hexa wireshark dns`, we found this link that gives a big hint: https://ctftime.org/writeup/9559.
+
 Turns out, we have to take all response (or request) and concatenate all `hex-code` together. [Hex codes concatenated](./hexcodes.txt)
 
 Once run in [dcode](https://www.dcode.fr/cipher-identifier), it identifies the input as `Hexadecimal Data`. (It gives [this xlsx file](./dcode-data.xlsx))
