@@ -2,8 +2,8 @@
 
 I participated to the HackTheBoo CTF, which I ended up in the top 1k with around 6k players.
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/52219651/198597429-4ffb4bb3-58f3-4dec-a54f-e914d82aa0f3.png">
+<p>
+  <img src="https://user-images.githubusercontent.com/52219651/198597429-4ffb4bb3-58f3-4dec-a54f-e914d82aa0f3.png" align="right">
 </p>
 
 - Crypto
